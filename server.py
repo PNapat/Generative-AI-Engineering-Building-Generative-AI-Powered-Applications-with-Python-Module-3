@@ -59,8 +59,7 @@ def process_message_route():
     )
 
     print(response)
-    # return response
-    return "Hi, how are you?"
+    return response
 
 
 if __name__ == "__main__":
